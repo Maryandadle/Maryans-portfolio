@@ -1,6 +1,6 @@
 # Maryans-portfolio
 Data Analytics portfolio
-##Main Analysis Types
+
 [Cohort Analysis](https://docs.google.com/spreadsheets/d/1lR6vvjiUoJH95HBxD7qwnADNXLi5m875oGrbOmPQXwQ/edit?usp=sharing)
 [A/B Testing](https://docs.google.com/spreadsheets/d/1yhUa0WcNN0qezcjAdfv9-YBc1V9NQ0P1lM_hFhQ32TQ/edit#gid=1719056349)
 [Funnel Analysis](https://docs.google.com/spreadsheets/d/1FQYk2BN8djyzDQulI0HLvHFZplRmdY1_SCK7HoXPgbA/edit#gid=276316150)
