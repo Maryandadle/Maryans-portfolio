@@ -24,15 +24,9 @@ Data Analytics portfolio
 
 [Monetization presentation](https://drive.google.com/file/d/1KQCOg9N6qCXK75giD-pHY1901Mr0anRp/view?usp=sharing)
 
-
 [Dashboard Olist Business](https://lookerstudio.google.com/reporting/7d4e5643-6a5c-4f6a-8c99-ad49f0903d97)
 
 [Queries Olist Business ](https://docs.google.com/spreadsheets/d/1F1k4yYdhjUJbbhonSn0tcynvYRjnT-WgxaWHsVKc22U/edit?usp=sharing)
-
-[Dashboard for Management](https://lookerstudio.google.com/reporting/9bc53bfa-3e81-40fb-86d9-0102de633ad9)
-
-[Query Document ](https://docs.google.com/spreadsheets/d/1zl9e7VirxGBCI4HGBkrLdgSmLrKQlXLxU31iFFeE4ls/edit#gid=0)
-
 
 [Capstone Cohort Analysis +Customer Lifeetime Value Analysis](https://docs.google.com/spreadsheets/d/1t9BTlLzFXmCK73nO-owOVADtUwR5a7e2YD1ypdhZOPM/edit?usp=sharing)
 
