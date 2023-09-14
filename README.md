@@ -29,7 +29,7 @@ Data Analytics portfolio
 
 [Queries Olist Business ](https://docs.google.com/spreadsheets/d/1F1k4yYdhjUJbbhonSn0tcynvYRjnT-WgxaWHsVKc22U/edit?usp=sharing)
 
-[Dashboard for Management](https://lookerstudio.google.com/reporting/3e86e98a-340a-4356-b8a1-7a6e8c481e09)
+[Dashboard for Management](https://lookerstudio.google.com/u/0/reporting/3e86e98a-340a-4356-b8a1-7a6e8c481e09/page/p_k3s6pdh57c)
 
 [Query Document ](https://docs.google.com/spreadsheets/d/1zl9e7VirxGBCI4HGBkrLdgSmLrKQlXLxU31iFFeE4ls/edit#gid=0)
 
