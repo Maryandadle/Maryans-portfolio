@@ -38,7 +38,7 @@ Data Analytics portfolio
 
 [Capstone Simplified BCG Matrix](https://docs.google.com/spreadsheets/d/1Px4_UZwiCq7glGHRNqz_1jYZJT-Z4FS7diZ72SOp4wk/edit?usp=sharing)
 
-[Capstone DASHBOARD](https://lookerstudio.google.com/reporting/929666d5-0a57-49fc-91db-9eec6777a005)
+[Capstone Dashboard](https://lookerstudio.google.com/reporting/929666d5-0a57-49fc-91db-9eec6777a005)
 
 [Capstone REPORT](https://docs.google.com/document/d/1pMNJjGHdH8kZSeP0Rh9ddYIntNaZl6Al/edit?usp=sharing&ouid=103533855197514078128&rtpof=true&sd=true)
 
