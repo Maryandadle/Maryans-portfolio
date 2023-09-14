@@ -11,9 +11,9 @@ Data Analytics portfolio
 
 [Customer Lifetime Value-CLV](https://docs.google.com/spreadsheets/d/13Vq2PYEcZG7kjaBgAjdWf9Qnzj2HkIy7GBNM2mb40FY/edit#gid=1592356039)
 
-[LOGISTIC REGRESSION MODEL RESULTS](https://1drv.ms/x/s!AvHdsUSNaXVOhBKVt0uN_YkSQRWu?e=xAIugw)
+[Logistic Regression Model -Results Data](https://1drv.ms/x/s!AvHdsUSNaXVOhBKVt0uN_YkSQRWu?e=xAIugw)
 
-[LOGISTIC REGRESSION VALIDATION DATA ](https://1drv.ms/x/s!AvHdsUSNaXVOhA4NsCoxd4OE1-uR?e=6ccovi)
+[Logistic regression model- validation Data ](https://1drv.ms/x/s!AvHdsUSNaXVOhA4NsCoxd4OE1-uR?e=6ccovi)
 
 
 [Product Analysis](https://docs.google.com/spreadsheets/d/1dT8n6xFKfkoNmjuG86RXdJgYRfXQTFcLxbgmIX6Fxpc/edit#gid=831361003)
@@ -22,7 +22,7 @@ Data Analytics portfolio
 
 [Monetization Analysis](https://docs.google.com/spreadsheets/d/1PElcBrOx0m8jQ5X1h6r9-A-tCVbIglsJVuabKhGoK-k/edit#gid=625109887)
 
-[View PDF File-Monetization presentation](https://drive.google.com/file/d/1KQCOg9N6qCXK75giD-pHY1901Mr0anRp/view?usp=sharing)
+[Monetization presentation](https://drive.google.com/file/d/1KQCOg9N6qCXK75giD-pHY1901Mr0anRp/view?usp=sharing)
 
 
 [Dashboard Olist Business](https://lookerstudio.google.com/reporting/7d4e5643-6a5c-4f6a-8c99-ad49f0903d97)
@@ -34,16 +34,16 @@ Data Analytics portfolio
 [Query Document ](https://docs.google.com/spreadsheets/d/1zl9e7VirxGBCI4HGBkrLdgSmLrKQlXLxU31iFFeE4ls/edit#gid=0)
 
 
-[CAPSTONE-COHORT +CLV ANALYSIS](https://docs.google.com/spreadsheets/d/1t9BTlLzFXmCK73nO-owOVADtUwR5a7e2YD1ypdhZOPM/edit?usp=sharing)
+[Capstone Cohort Analysis +Customer Lifeetime Value Analysis](https://docs.google.com/spreadsheets/d/1t9BTlLzFXmCK73nO-owOVADtUwR5a7e2YD1ypdhZOPM/edit?usp=sharing)
 
-[CAPSTONE Simplified BCG Matrix](https://docs.google.com/spreadsheets/d/1Px4_UZwiCq7glGHRNqz_1jYZJT-Z4FS7diZ72SOp4wk/edit?usp=sharing)
+[Capstone Simplified BCG Matrix](https://docs.google.com/spreadsheets/d/1Px4_UZwiCq7glGHRNqz_1jYZJT-Z4FS7diZ72SOp4wk/edit?usp=sharing)
 
-[CAPSTONE DASHBOARD](https://lookerstudio.google.com/reporting/929666d5-0a57-49fc-91db-9eec6777a005)
+[Capstone DASHBOARD](https://lookerstudio.google.com/reporting/929666d5-0a57-49fc-91db-9eec6777a005)
 
-[CAPSTONE REPORT](https://docs.google.com/document/d/1pMNJjGHdH8kZSeP0Rh9ddYIntNaZl6Al/edit?usp=sharing&ouid=103533855197514078128&rtpof=true&sd=true)
+[Capstone REPORT](https://docs.google.com/document/d/1pMNJjGHdH8kZSeP0Rh9ddYIntNaZl6Al/edit?usp=sharing&ouid=103533855197514078128&rtpof=true&sd=true)
 
-[PRESENTATION](https://docs.google.com/presentation/d/1MoLbqaXyQpyuv7IxuVpQB6O69K2D3DDj/edit?usp=sharing&ouid=103533855197514078128&rtpof=true&sd=true)
+[Capstone Presentation](https://docs.google.com/presentation/d/1MoLbqaXyQpyuv7IxuVpQB6O69K2D3DDj/edit?usp=sharing&ouid=103533855197514078128&rtpof=true&sd=true)
 
-[QUERY DOCUMENT](https://docs.google.com/spreadsheets/d/14FreD8zwMCkNxrcw9xBvV0JmBoYm0D-rZ8sUIqNqwFM/edit?usp=sharing)
+[Queries used during capstone](https://docs.google.com/spreadsheets/d/14FreD8zwMCkNxrcw9xBvV0JmBoYm0D-rZ8sUIqNqwFM/edit?usp=sharing)
 
 
